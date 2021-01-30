@@ -3,10 +3,10 @@
     {% if quicklinks.links %}
 
         {% for item in quicklinks.links %}
-            <a href="{{item.url}}" target="_blank" class="p-5 border rounded border-gray-200 hover:border-purple-400">
-                <h3>{{item.title}}
-                    →</h3>
-                <p>{{item.desc}}</p>
+            <a href="{{item.url}}" target="_blank" class="p-5 border rounded border-gray-200 hover:border-purple-400 text-center">
+                <p class="mb-4 text-2xl text-purple-400">{{item.desc}}</p>
+                    <p><strong>{{item.title}}
+                    <span class="text-purple-400">→</span></strong></p>
             </a>
         {% endfor %}
 
