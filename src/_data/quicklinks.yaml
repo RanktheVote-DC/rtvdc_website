@@ -1,14 +1,18 @@
 ---
 links:
-  - title: Watch now
-    url: "https://youtu.be/MykMQfmLIro"
-    desc: We're doing elections wrong.
-  - title: Watch now
-    url: "https://youtu.be/pTyjg3_kvBo"
-    desc: Ranked Choice Voting Explained.
-  - title: Follow now
+  - title: The problem
     url: "#"
-    desc: We're on Instagram and Twitter.
-  - title: Sign now
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSdV06RKPu0meomTQcALgWYecTM0_si7ZsasvT_KcR2kumLyAQ/viewform"
-    desc: "Council: Pass Ranked Choice Voting"
+    desc: Candidates are winning DC elections without majority support.
+    cta: Learn more about the problem
+  - title: The solution
+    url: "#"
+    desc: RCV requires candidates to win a majority of votes.
+    cta: Learn more about the solution
+  - title: The movement
+    url: "#"
+    desc: We're a coalition of 13 DC organizations supporting RCV.
+    cta: Learn about the movement
+  - title: Get involved
+    url: "#"
+    desc: Ranked choice voting requires candidates to win a majority of votes
+    cta: Learn how you can get involved

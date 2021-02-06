@@ -1,20 +1,28 @@
 ---
 layout: default
 title: Stengthen democracy with
-purpletitle: ranked choice voting
+purpletitle: ranked choice voting (RCV)
 subtitle: We're uniting DC residents to improve our elections.
-secondsectionheader: Join the coalition
+thirdsectionheader: The movement
+thirdsectionsubheaderone: The DC coalition
+thirdsectionsubheadertwo: RCV supporters
 path: home
 ---
 
-<div class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
-  <h1 class="mt-72 mb-10">
+<!-- TODOs 
+- Mobile styling
+- Change navbars based on document from Casey
+- Try creating a new page with CMS
+-->
+
+<div class="container mx-auto lg:h-screen flex flex-col justify-center items-center lg:pt-60">
+  <h1>
       {{title}}<br>
-      <strong class="bg-clip-text text-purple-400">{{purpletitle}}</strong>.
+      <strong class="text-purple-600">{{purpletitle}}</strong>.
   </h1>
 
   <h2>
-    <strong class="bg-clip-text text-2xl">
+    <strong class="text-2xl">
       {{subtitle}}
     </strong>
   </h2>
@@ -25,9 +33,4 @@ path: home
 
   {% include "./_includes/partials/content.html" %}
 
-  <h2>
-    <strong class="bg-clip-text text-purple-400 text-4xl">
-      {{secondsectionheader}}
-    </strong>
-  </h2>
 </div>
