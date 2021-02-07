@@ -13,8 +13,8 @@ local_backend: true
 publish_mode: editorial_workflow
 collections:
   - label: "Pages"
-    name: "page"
-    folder: "src/page"
+    name: "pages"
+    folder: "src/pages"
     create: true
     editor:
       preview: false
