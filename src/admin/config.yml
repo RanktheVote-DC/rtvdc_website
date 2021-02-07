@@ -14,7 +14,7 @@ publish_mode: editorial_workflow
 collections:
   - label: "Page"
     name: "pages"
-    folder: "src/pages"
+    folder: "src"
     create: true
     editor:
       preview: false
