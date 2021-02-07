@@ -12,7 +12,7 @@ public_folder: "/static/img"
 local_backend: true
 publish_mode: editorial_workflow
 collections:
-  - label: "Pages"
+  - label: "Page"
     name: "pages"
     folder: "src/pages"
     create: true
