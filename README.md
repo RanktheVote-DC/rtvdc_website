@@ -4,7 +4,7 @@ Starter Template for **N**etlify CMS, **E**leventy, **A**lphine JS & **T**ailwin
 
 ## Live Demo
 
-[https://neat-starter.netlify.app/](https://neat-starter.netlify.app/)
+[https://nifty-kalam-47f9ee.netlify.app](https://nifty-kalam-47f9ee.netlify.app)
 
 ### Technologies used:
 
