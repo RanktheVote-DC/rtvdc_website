@@ -1,6 +1,4 @@
 {
     "layout": "default",
-    "tags": [
-        "page"
-    ]
+    "permalink": "/{{ title }}/"
 }
