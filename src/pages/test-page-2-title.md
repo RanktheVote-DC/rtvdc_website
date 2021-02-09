@@ -8,7 +8,6 @@ Note: Editorial workflow works with GitHub repositories, and support for GitLab 
 
 You can enable the Editorial Workflow with the following line in your Netlify CMS config.yml file:
 
-# /admin/config.yml
 publish_mode: editorial_workflow
 
 From a technical perspective, the workflow translates editor UI actions into common Git commands:
