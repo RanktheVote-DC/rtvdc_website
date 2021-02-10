@@ -1,10 +1,12 @@
 ---
 items:
-  - text: ABOUT RANKED CHOICE VOTING
+  - text: What is RCV?
     url: "#"
-  - text: GET INVOLVED
+  - text: RCV in DC
     url: "#"
-  - text: DONATE
+  - text: Get involved
     url: "#"
-  - text: BLOG
-    url: "/blog"
+  - text: Donate
+    url: "#"
+  - text: About Us
+    url: "#"
