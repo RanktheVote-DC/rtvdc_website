@@ -21,7 +21,7 @@
 
                 <ul class="pt-6 lg:pt-0 list-reset lg:flex justify-end flex-1 items-center">
                     {% for item in navigation.items %}
-                        <li class="nav__item mr-3">
+                        <li class="nav__item mr-3 font-bold">
                             <a @click="isOpen = false" class="text-ml inline-block text-white no-underline 
                             hover:bg-white hover:text-purple-600 py-2 px-4" href="{{ item.url }}">{{ item.text }}</a>
                         </li>
