@@ -4,7 +4,7 @@ url: vote-new-mascot-washington-football-team
 description: Try out ranked choice voting by selecting a new mascot for the
   Washington Football Team by Rank the Vote DC.
 ---
-Try out ranked choice voting by selecting a new mascot for the Washington Football Team.
+Try out ranked choice voting by selecting your choice for the new mascot for the Washington Football Team.*
 
 ## How ranked choice voting works
 
@@ -15,4 +15,4 @@ Try out ranked choice voting by selecting a new mascot for the Washington Footba
 
 <div style="position:relative;overflow:hidden;padding-top:120%;"><iframe src="https://rankit.vote/vote/WVk91aOuGv8M3TTScuTY" style="border:1px solid #f1f1f1;position: absolute;top: 0;left: 0;width: 100%;height: 100%;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" allowfullscreen></iframe></div>
 
-*Please note: Rank the Vote DC is not affiliated with the NFL or the Washington Football Team and this vote is not officially endorsed by the team. Consider this a vote to find out which is the preferred mascot of the people of DC.*
+*\* Rank the Vote DC is not affiliated with the NFL or the Washington Football Team and this vote is not officially endorsed by the team. Consider this a vote to find out which is the preferred mascot of the people of DC.*
