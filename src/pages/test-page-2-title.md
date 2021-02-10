@@ -1,6 +1,7 @@
 ---
 title: "Test page #2 title"
 description: "Test page #2 description"
+url: test-page
 ---
 This is the body
 

@@ -1,4 +1,4 @@
 {
     "layout": "pages",
-    "permalink": "/{{ title | slug }}/"
+    "permalink": "/{{ url | slug }}/"
 }
