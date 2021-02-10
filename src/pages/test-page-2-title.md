@@ -1,13 +1,7 @@
 ---
-<<<<<<< HEAD
-title: "Test page #2 title"
-description: "Test page #2 description"
-url: test-page
-=======
 title: Vote for a new mascot for Washington’s Football Team
 description: Try out ranked choice voting by selecting a new mascot for
-  Washington’s Football Team from Rank the Vote DC.
->>>>>>> b23703203feda8e70a639dc7e84cce6b73cebe3f
+url: vote-new-mascot-washington-football-team
 ---
 This is the body
 
