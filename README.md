@@ -1,6 +1,4 @@
-# Neat Starter
-
-Starter Template for **N**etlify CMS, **E**leventy, **A**lphine JS & **T**ailwind CSS
+# Rank The Vote DC's website
 
 ## Live Demo
 
@@ -8,25 +6,25 @@ Starter Template for **N**etlify CMS, **E**leventy, **A**lphine JS & **T**ailwin
 
 ### Technologies used:
 
+- [Starter Template](https://blog.surjithctly.in/neat-stack-create-a-static-website-with-netlify-cms-eleventy-alpinejs-and-tailwindcss)
 - [Netlify CMS](https://www.netlifycms.org/)
 - [Eleventy](https://www.11ty.dev/)
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-## Getting Started
-
-Detailed instructions are available in my blog. [Check it out](https://blog.surjithctly.in/neat-stack-create-a-static-website-with-netlify-cms-eleventy-alpinejs-and-tailwindcss)
+## Working locally
 
 ### 1\. Clone this Repository
 
 ```
-git clone https://github.com/surjithctly/neat-starter.git
+git clone https://USERNAME@github.com/RanktheVote-DC/rtvdc_website.git
+
 ```
 
 ### 2\. Navigate to the directory
 
 ```
-cd neat-starter
+cd rtvdc_website
 ```
 
 ### 3\. Install dependencies
