@@ -12,6 +12,12 @@
 - [Alpine.js](https://github.com/alpinejs/alpine)
 - [Tailwind CSS](https://tailwindcss.com/)
 
+## Working in the CMS
+
+[https://nifty-kalam-47f9ee.netlify.app/admin](https://nifty-kalam-47f9ee.netlify.app/admin)
+
+On the free Netlify plan, only 5 people can have access to the CMS. New editors can be invited in the Netlify account.
+
 ## Working locally
 
 ### 1\. Clone this Repository
