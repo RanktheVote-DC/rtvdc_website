@@ -1,10 +1,10 @@
 ---
 title: Vote for a new mascot for Washington’s football team
 url: vote-new-mascot-washington-football-team
-description: Try out ranked choice voting by selecting a new mascot for the
+description: Try ranked choice voting by selecting a new mascot for the
   Washington Football Team by Rank the Vote DC.
 ---
-Try out ranked choice voting by selecting your choice for the new mascot for the Washington Football Team.*
+Try ranked choice voting by selecting your choice for the new mascot for the Washington Football Team.*
 
 ## How ranked choice voting works
 
