@@ -39,4 +39,4 @@ If they go ahead and vote for Candidate Five, their friends and family could sha
 
 The good news is there is a solution. It's called ranked choice voting (RCV). 
 
-[Learn how ranked choice voting would fix DC's elections for politicians and voters](/solution).
+[Learn how ranked choice voting would fix DC's elections for politicians and voters](/solution/).
