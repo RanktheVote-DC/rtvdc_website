@@ -1,11 +1,10 @@
----
 items:
   - text: What is RCV?
     url: "#"
   - text: RCV in DC
     url: "#"
   - text: Get involved
-    url: "#"
+    url: get-involved
   - text: Donate
     url: "#"
   - text: About Us
