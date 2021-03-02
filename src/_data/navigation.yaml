@@ -4,7 +4,7 @@ items:
   - text: RCV in DC
     url: "#"
   - text: Get involved
-    url: get-involved
+    url: https://nostalgic-wescoff-bb4fa6.netlify.app/get-involved/
   - text: Donate
     url: "#"
   - text: About Us
