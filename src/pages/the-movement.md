@@ -8,4 +8,4 @@ Rank the Vote DC is a volunteer organization dedicated to bringing Ranked Choice
 
 We are also working with a broad coalition of supporters:
 
-![350 DC](/static/img/350dc-logo.png?nf_resize=fit&w=300&h=400 "350 DC")
+![350 DC](/static/img/350dc-logo.png?nf_resize=fit&w=100&h=400 "350 DC")
