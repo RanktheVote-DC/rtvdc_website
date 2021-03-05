@@ -9,3 +9,5 @@ description: Information about RTVDC and the coalition
 
 <p>We are also working with a broad coalition of supporters:</p>
 <img src="/static/img/350dc-logo.png?nf_resize=fit&w=100&h=400">
+<img src="/static/img/ce-logo.jpeg?nf_resize=fit&w=100&h=400">
+
