@@ -7,6 +7,5 @@ description: Information about RTVDC and the coalition
 <a href="mailto:Hello@RankTheVoteDC.org" Hello@RankTheVoteDC.org</a>
 </p>
 
-We are also working with a broad coalition of supporters:
-
+<p>We are also working with a broad coalition of supporters:</p>
 <img src="/static/img/350dc-logo.png?nf_resize=fit&w=100&h=400">
