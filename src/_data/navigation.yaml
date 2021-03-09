@@ -1,6 +1,6 @@
 items:
   - text: What is RCV?
-    url: /solution/
+    url: https://nostalgic-wescoff-bb4fa6.netlify.app/solution/
   - text: RCV in DC
     url: "#"
   - text: Get involved
@@ -8,4 +8,4 @@ items:
   - text: Donate
     url: "#"
   - text: About Us
-    url: https://nostalgic-wescoff-bb4fa6.netlify.app/movement
+    url: https://nostalgic-wescoff-bb4fa6.netlify.app/movement/
