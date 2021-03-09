@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[https://nifty-kalam-47f9ee.netlify.app](https://nifty-kalam-47f9ee.netlify.app)
+[https://nostalgic-wescoff-bb4fa6.netlify.app/](https://nostalgic-wescoff-bb4fa6.netlify.app/)
 
 ### Technologies used:
 
@@ -14,7 +14,7 @@
 
 ## Working in the CMS
 
-[https://nifty-kalam-47f9ee.netlify.app/admin](https://nifty-kalam-47f9ee.netlify.app/admin)
+[https://nostalgic-wescoff-bb4fa6.netlify.app//admin](https://nostalgic-wescoff-bb4fa6.netlify.app//admin)
 
 On the free Netlify plan, only 5 people can have access to the CMS. New editors can be invited in the Netlify account.
 
