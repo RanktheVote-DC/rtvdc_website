@@ -3,8 +3,8 @@ title: The Movement
 url: movement
 description: Information about RTVDC and the coalition
 ---
-<p>Rank the Vote DC is a volunteer organization dedicated to bringing Ranked Choice Voting to DC.  We can be contacted here:</br>
-<a href="mailto:Hello@RankTheVoteDC.org" Hello@RankTheVoteDC.org</a>
+<p>Rank the Vote DC is a volunteer organization dedicated to bringing Ranked Choice Voting to DC.  We can be contacted here:<br>
+<a href="mailto:Hello@RankTheVoteDC.org" /> Hello@RankTheVoteDC.org</a>
 </p>
 
 <p>We are also working with a broad coalition of supporters:</p>
