@@ -17,6 +17,18 @@ description: Learn about ranked choice voting and how it solves DC's elections
 
 Ranked choice voting allows voters to vote for more than one candidate. The voter ranks the candidates they vote for in order of preference. 
 
+Overview Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gq7N2hmX9FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+More Details Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MykMQfmLIro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 ### Try Ranked Choice Voting (RCV)
 
 To better understand how it works, try ranked choice voting by selecting your choice for the new mascot for the Washington Football Team.*
