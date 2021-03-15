@@ -5,14 +5,19 @@ description: Learn about ranked choice voting and how it solves DC's elections
   problems from Rank the Vote DC.
 ---
 ## There are two main problems with elections in DC:
+
 1. Elections can be won without receiving majority support (or over 50%).
-1. Voters are punished for voting their values
+2. Voters are punished for voting their values
 
 *In case you missed it, we explain these problems in-depth on our "[What's wrong with elections in DC?](/problem/)" webpage.*
 
 ## Ranked choice voting solves these problems
-### What is Ranked Choice Voting (RCV)?
+
+### What is Ranked Choice Voting (RCV)
+
 Ranked choice voting allows voters to vote for more than one candidate. The voter ranks the candidates they vote for in order of preference. 
+
+### Try Ranked Choice Voting (RCV)
 
 To better understand how it works, try ranked choice voting by selecting your choice for the new mascot for the Washington Football Team.*
 
@@ -26,8 +31,11 @@ To better understand how it works, try ranked choice voting by selecting your ch
 *\* Rank the Vote DC is not affiliated with the NFL or the Washington Football Team and this vote is not officially endorsed by the team. Consider this a vote to find out which is the preferred mascot of the people of DC.*
 
 ### How ranked choice voting solves DC's elections problems.
+
 #### 1) Elections can be won without receiving majority support (or over 50%).
+
 Ranked choice voting solves this by...
 
 #### 2) Voters are punished for voting their values
+
 Ranked choice voting solves this by...
