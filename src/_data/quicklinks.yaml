@@ -1,17 +1,17 @@
 links:
-  - title: The problem
+  - title: The Problem
     url: /problem/
     desc: What's wrong with elections in DC?
     cta: Learn about the problem
-  - title: The solution
+  - title: The Solution
     url: /solution/
-    desc: "Spoiler alert: It's RCV"
+    desc: "Spoiler alert: It's ranked voting!"
     cta: Learn about the solution
-  - title: The movement
-    url: "#"
+  - title: The Movement
+    url: /coalition/
     desc: A coalition of 13 DC organizations
     cta: Learn about the movement
-  - title: Get involved
-    url: https://nostalgic-wescoff-bb4fa6.netlify.app/get-involved/
-    desc: We need your help today.
+  - title: Take Action
+    url: /takeaction/
+    desc: Join the Movement
     cta: Learn how you can get involved
