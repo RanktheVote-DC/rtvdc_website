@@ -17,7 +17,7 @@ description: Learn about ranked choice voting and how it solves DC's elections
 
 Ranked choice voting allows voters to vote for more than one candidate. The voter ranks the candidates they vote for in order of preference. 
 
-DC Example Image
+Example DC Ranked Choice Ballot
 
 ![Example DC Ranked Choice Ballot](/static/img/example-20ballot-20grid-20rank-20the-20v.webp "Example DC Ranked Choice Ballot")
 
