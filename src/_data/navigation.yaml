@@ -1,11 +1,11 @@
 items:
-  - text: What is RCV?
+  - text: What is ranked voting?
     url: /solution/
-  - text: RCV in DC
-    url: /rcv-dc/
-  - text: Get involved
-    url: /get-involved/
+  - text: Rank the Vote in DC
+    url: /whyDC/
+  - text: Take Action
+    url: /takeaction/
   - text: Donate
-    url: "#"
-  - text: About Us
-    url: /movement/
+    url: https://opencollective.com/rankthevotedc
+  - text: Who We Are
+    url: /coalition/
