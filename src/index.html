@@ -16,7 +16,7 @@ path: home
 - Once domain transferred over, update URL info in settings: https://www.netlifycms.org/docs/configuration-options/#site-url
 -->
 
-<div class="container mx-auto lg:h-screen flex flex-col justify-center items-center lg:pt-60">
+<div class="container mx-auto flex flex-col items-center lg:pt-24 px-8 pt-8">
   <h1 class="mb-10">
       {{title}}<br>
       <strong class="text-purple-600">{{purpletitle}}</strong>
@@ -27,27 +27,6 @@ path: home
       {{subtitle}}
     </strong>
   </h2>
-  
-  <h2>
-    <strong class="text-2xl">
-      {{problem_simple}}
-    </strong>
-     <p> 1) Communities often split their vote & weaken their collective power.</p>
-     <p> 2) Candidates can win with less than 50% of the vote. </p>
-  </h2>
-
-  <h2>
-    <strong class="text-2xl">
-      {{solution_simple}}
-    </strong>
-     <p> 1) Diverse communities are free to vote in solidarity & build power together.</p>
-     <p> 2) Candidates only win once they get a real majority. </p>
-  </h2>
-
-  <div>
-    {% include "./_includes/partials/content.html" %}
-  </div>
-</div>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -69,3 +48,26 @@ path: home
 </div>
 
 <!--End mc_embed_signup-->
+  
+<div class="text-left">
+  <div class="my-8">
+    <h2 class="text-2xl">
+      {{problem_simple}}
+    </h2>
+     <p>1) Communities often split their vote & weaken their collective power.</p>
+     <p>2) Candidates can win with less than 50% of the vote.</p>
+  </div>
+  
+  <div class="my-8">
+    <h2 class="text-2xl">
+      {{solution_simple}}
+    </h2>
+     <p>1) Diverse communities are free to vote in solidarity & build power together.</p>
+     <p>2) Candidates only win once they get a real majority.</p>
+    </div>
+  </div>
+
+  <div>
+    {% include "./_includes/partials/content.html" %}
+  </div>
+</div>
