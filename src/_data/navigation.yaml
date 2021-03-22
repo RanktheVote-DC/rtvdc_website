@@ -1,8 +1,8 @@
 items:
-  - text: What is ranked voting?
+  - text: What is Ranked Voting?
     url: /solution/
-  - text: Rank the Vote in DC
-    url: /whyDC/
+  - text: Why Rank the Vote in DC?
+    url: /problem/
   - text: Take Action
     url: /takeaction/
   - text: Donate
