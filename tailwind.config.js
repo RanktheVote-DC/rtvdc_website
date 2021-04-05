@@ -11,7 +11,11 @@ module.exports = {
       center: true,
     },
     extend: {
-      colors: {},
+      colors: {
+        purple: {
+          DEFAULT: '#b09be8',
+        },
+      },
     },
   },
   variants: {},

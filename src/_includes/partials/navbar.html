@@ -1,8 +1,8 @@
-<div class="h-12 lg:fixed w-full bg-purple-600 z-10">
+<div class="h-12 lg:fixed w-full bg-purple z-10">
     <nav class="flex items-center justify-center lg:justify-between flex-wrap lg:px-0 container mx-auto" x-data="{ isOpen: false }" @keydown.escape="isOpen = false">
         <!--Logo etc-->
         <div class="flex items-center">
-            <a href="/" class="text-white font-bold text-lg lg:ml-4 hover:bg-white hover:text-purple-600 py-2 px-4">
+            <a href="/" class="font-bold text-lg lg:ml-4 hover:bg-white py-2 px-4">
                 Rank the Vote DC</a>
         </div>
 
@@ -22,8 +22,8 @@
                 <ul class="pt-6 lg:pt-0 list-reset lg:flex justify-end flex-1 items-center">
                     {% for item in navigation.items %}
                         <li class="nav__item mr-3 font-bold uppercase">
-                            <a @click="isOpen = false" class="text-ml inline-block text-white no-underline 
-                            hover:bg-white hover:text-purple-600 py-2 px-4" href="{{ item.url }}">{{ item.text }}</a>
+                            <a @click="isOpen = false" class="text-ml inline-block no-underline 
+                            hover:bg-white py-2 px-4" href="{{ item.url }}">{{ item.text }}</a>
                         </li>
                     {% endfor %}
                 </ul>
