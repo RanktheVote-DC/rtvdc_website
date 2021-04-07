@@ -9,36 +9,51 @@ description: This is how you can take action to make ranked choice voting a
 We only need support from one more of these DC Councilmembers:
 
 ### Ask​ these leaders to co-sponsor the Ranked Choice Voting bill:
- 
-<img src="https://raw.githubusercontent.com/RanktheVote-DC/rtvdc_website/master/src/static/img/cm-robert-white-picture.jpg?token=AS5JC2623XYSIZQBUZMQEYLANXV5I" alt="Robert White Photo" width="100" height="100"/>
+
+<img src="/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="100" height="100"/>
 
 ## [Robert White Jr: ](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
+
 #### At-Large Councilmember
+
 ###### [Instagram](https://www.instagram.com/robertwhite_dc)
+
 ###### [Tweet](https://twitter.com/RobertWhite_DC)
+
 ###### (202)-724-8174
+
 ###### [rwhite@dccouncil.us](mailto:rwhite@dccouncil.us)
 
-<img src="https://raw.githubusercontent.com/RanktheVote-DC/rtvdc_website/master/src/static/img/cm-trayon-white-picture.jpg?token=AS5JC245RYXZ243DDL6LRSDANXWBG" alt="Trayon White Photo" width="100" height="100"/>
+<img src="/static/img/cm-trayon-white-picture.jpg" alt="Trayon White Photo" width="100" height="100"/>
 
 ## [Trayon White Sr: ](https://dccouncil.us/council/councilmember-trayon-white-sr/)
+
 #### Ward 8 Councilmember
+
 ###### [Instagram](https://www.instagram.com/trayonwhite)
+
 ###### [Tweet](https://twitter.com/trayonwhite)
+
 ###### (202)-724-8045
+
 ###### [twhite@dccouncil.us](mailto:twhite@dccouncil.us)
 
-<img src="https://raw.githubusercontent.com/RanktheVote-DC/rtvdc_website/master/src/static/img/cm-kenyan-mcduffie-picture.jpg?token=AS5JC2YMWMKLLTQEIONB5KTANXWC4" alt="Kenyon McDuffie" width="100" height="100"/>
+<img src="/static/img/cm-kenyan-mcduffie-picture.jpg" alt="Kenyon McDuffie" width="100" height="100"/>
 
 ## [Kenyon McDuffie: ](https://dccouncil.us/council/kenyan-mcduffie/)
+
 #### Ward 5 Councilmember
+
 ###### [Instagram](https://www.instagram.com/cm_mcduffie/)
+
 ###### [Tweet](https://twitter.com/CM_McDuffie)
+
 ###### (202)-724-8028
+
 ###### [kmcduffie@dccouncil.us](mailto:kmcduffie@dccouncil.us)
 
-
 ## Speak your truth! Call, email, or DM the Councilmembers and say why you want to rank the vote!
+
 ## You can say something like:
 
 ### "I'm a DC resident in Ward _, asking for the Councilmember's support for ranked voting to free communities to build voting power together. I hope they will support election equity by cosponsoring the VOICE Act - the new ranked choice voting bill.
