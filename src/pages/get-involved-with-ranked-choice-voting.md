@@ -11,35 +11,28 @@ We only need support from one more of these DC Councilmembers:
 ### Ask​ these leaders to co-sponsor the Ranked Choice Voting bill:
   
 <img src="https://raw.githubusercontent.com/RanktheVote-DC/rtvdc_website/master/src/static/img/cm-robert-white-picture.jpg?token=AS5JC24YZZHAVZYUNL4ERBLANXU7M" alt="Robert White Photo" width="100" height="100"/>
-
 ## [Robert White Jr: ](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
 #### At-Large Councilmember
-
 ###### [Instagram](https://www.instagram.com/robertwhite_dc)
 ###### [Tweet](https://twitter.com/RobertWhite_DC)
 ###### (202)-724-8174
 ###### [rwhite@dccouncil.us](mailto:rwhite@dccouncil.us)
 
 
-
 ## [Trayon White Sr: ](https://dccouncil.us/council/councilmember-trayon-white-sr/)
 #### Ward 8 Councilmember
-
 ###### [Instagram](https://www.instagram.com/trayonwhite)
 ###### [Tweet](https://twitter.com/trayonwhite)
 ###### (202)-724-8045
 ###### [twhite@dccouncil.us](mailto:twhite@dccouncil.us)
 
 
-
 ## [Kenyon McDuffie: ](https://dccouncil.us/council/kenyan-mcduffie/)
 #### Ward 5 Councilmember
-
 ###### [Instagram](https://www.instagram.com/cm_mcduffie/)
 ###### [Tweet](https://twitter.com/CM_McDuffie)
 ###### (202)-724-8028
 ###### [kmcduffie@dccouncil.us](mailto:kmcduffie@dccouncil.us)
-
 
 
 ## Speak your truth! Call, email, or DM the Councilmembers and say why you want to rank the vote!
