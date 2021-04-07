@@ -1,13 +1,14 @@
 ---
 title: Vote for a new mascot for Washington’s football team
 url: vote-new-mascot-washington-football-team
-description: Try ranked choice voting by ranking your favorite Freedom Fighter.
+description: Try ranked choice voting by selecting a new mascot for the
+  Washington Football Team by Rank the Vote DC.
 ---
-Try ranked choice voting by ranking your favorite Freedom Fighters.*
+Try ranked choice voting by selecting a new mascot for the Washington Football Team by Rank the Vote DC.*
 
 ## How ranked choice voting works
 
-* Vote for as many freedom fighters as you want.
+* Vote for as many macot options as you want.
 * Select them in order from your first choice to your last choice.
 * Your first choice is your favorite and your last choice is your least favorite.
 * If your first choice doesn't win, you'll get to use your second choice. If your second choice doesn't win, you'll get to use your third choice. And so on...
