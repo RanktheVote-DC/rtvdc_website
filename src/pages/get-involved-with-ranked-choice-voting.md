@@ -11,6 +11,7 @@ We only need support from one more of these DC Councilmembers:
 ### Ask​ these leaders to co-sponsor the Ranked Choice Voting bill:
   
 <img src="https://raw.githubusercontent.com/RanktheVote-DC/rtvdc_website/master/src/static/img/cm-robert-white-picture.jpg?token=AS5JC24YZZHAVZYUNL4ERBLANXU7M" alt="Robert White Photo" width="100" height="100"/>
+
 ## [Robert White Jr: ](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
 #### At-Large Councilmember
 ###### [Instagram](https://www.instagram.com/robertwhite_dc)
