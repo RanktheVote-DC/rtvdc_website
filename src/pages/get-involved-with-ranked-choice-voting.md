@@ -25,14 +25,11 @@ We only need support from one more of these DC Councilmembers:
 
 
 ## [Trayon White Sr: ](https://dccouncil.us/council/councilmember-trayon-white-sr/)
-
 #### Ward 8 Councilmember
 
-#### [Instagram](https://www.instagram.com/trayonwhite)
-
-#### [Tweet](https://twitter.com/trayonwhite)
-
-#### (202)-724-8045
+###### [Instagram](https://www.instagram.com/trayonwhite)
+###### [Tweet](https://twitter.com/trayonwhite)
+###### (202)-724-8045
 
 [twhite@dccouncil.us](mailto:twhite@dccouncil.us)
 
