@@ -19,6 +19,7 @@ We only need support from one more of these DC Councilmembers:
 ###### (202)-724-8174
 ###### [rwhite@dccouncil.us](mailto:rwhite@dccouncil.us)
 
+<img src="https://raw.githubusercontent.com/RanktheVote-DC/rtvdc_website/master/src/static/img/cm-trayon-white-picture.jpg?token=AS5JC245RYXZ243DDL6LRSDANXWBG" alt="Trayon White Photo" width="100" height="100"/>
 
 ## [Trayon White Sr: ](https://dccouncil.us/council/councilmember-trayon-white-sr/)
 #### Ward 8 Councilmember
@@ -27,6 +28,7 @@ We only need support from one more of these DC Councilmembers:
 ###### (202)-724-8045
 ###### [twhite@dccouncil.us](mailto:twhite@dccouncil.us)
 
+<img src="https://raw.githubusercontent.com/RanktheVote-DC/rtvdc_website/master/src/static/img/cm-kenyan-mcduffie-picture.jpg?token=AS5JC2YMWMKLLTQEIONB5KTANXWC4" alt="Kenyon McDuffie" width="100" height="100"/>
 
 ## [Kenyon McDuffie: ](https://dccouncil.us/council/kenyan-mcduffie/)
 #### Ward 5 Councilmember
