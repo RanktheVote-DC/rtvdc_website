@@ -9,9 +9,9 @@ description: This is how you can take action to make ranked choice voting a
 We only need support from one more of these DC Councilmembers:
 
 ### Ask​ these leaders to co-sponsor the Ranked Choice Voting bill:
-
+<p>
 <img src="http://github.com/RanktheVote-DC/rtvdc_website/blob/master/src/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="200" height="200"/>
-
+</p>
 ## [Robert White Jr: ](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
 #### At-Large Councilmember
 
