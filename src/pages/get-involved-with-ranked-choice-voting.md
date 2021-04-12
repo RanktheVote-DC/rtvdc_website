@@ -1,6 +1,6 @@
 ---
 title: Take Action
-url: takeaction
+url: take-action
 description: This is how you can take action to make ranked choice voting a
   reality for local elections in DC
 ---
