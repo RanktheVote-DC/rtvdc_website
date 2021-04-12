@@ -21,6 +21,9 @@ At-Large Councilmember
 * (202)-724-8174
 * [rwhite@dccouncil.us](mailto:rwhite@dccouncil.us)
 
+</div>
+</div>
+
 <img src="/static/img/cm-trayon-white-picture.jpg" alt="Trayon White Photo" width="100" height="100"/>
 
 ## [Trayon White Sr: ](https://dccouncil.us/council/councilmember-trayon-white-sr/)
