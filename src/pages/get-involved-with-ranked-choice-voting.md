@@ -7,15 +7,14 @@ description: Take action to make ranked choice voting a reality for local electi
 
 We only need support from one more of these DC Councilmembers. Ask​ these leaders to co-sponsor the Ranked Choice Voting bill.
 
+<div class="grid grid-cols-3 gap-1">
+<div>
+
+<img src="/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="100" height="100"/>
+
 ## [Robert White, Jr.](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
 
 At-Large Councilmember
-
-<div class="grid grid-cols-4 gap-2">
-<div>
-<img src="/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="100" height="100"/>
-</div>
-<div class="col-span-3">
 
 * [Instagram](https://www.instagram.com/robertwhite_dc)
 * [Twitter](https://twitter.com/RobertWhite_DC)
@@ -23,7 +22,7 @@ At-Large Councilmember
 * [rwhite@dccouncil.us](mailto:rwhite@dccouncil.us)
 
 </div>
-</div>
+<div>
 
 <img src="/static/img/cm-trayon-white-picture.jpg" alt="Trayon White Photo" width="100" height="100"/>
 
@@ -39,6 +38,9 @@ At-Large Councilmember
 
 ###### [twhite@dccouncil.us](mailto:twhite@dccouncil.us)
 
+</div>
+<div>
+
 <img src="/static/img/cm-kenyan-mcduffie-picture.jpg" alt="Kenyon McDuffie" width="100" height="100"/>
 
 ## [Kenyon McDuffie: ](https://dccouncil.us/council/kenyan-mcduffie/)
@@ -52,6 +54,9 @@ At-Large Councilmember
 ###### (202)-724-8028
 
 ###### [kmcduffie@dccouncil.us](mailto:kmcduffie@dccouncil.us)
+
+</div>
+</div>
 
 ## Speak your truth! Call, email, or DM the Councilmembers and say why you want to rank the vote!
 
