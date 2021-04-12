@@ -10,19 +10,19 @@ We only need support from one more of these DC Councilmembers:
 
 ### Ask​ these leaders to co-sponsor the Ranked Choice Voting bill:
 
+<div class="grid grid-cols-3 gap-4">
+<div>
 <img src="/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="100" height="100"/>
-
-## [Robert White Jr: ](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
+</div>
+<div class="col-span-3">
+## \[Robert White Jr: ](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
 
 #### At-Large Councilmember
 
-###### [Instagram](https://www.instagram.com/robertwhite_dc)
-
-###### [Tweet](https://twitter.com/RobertWhite_DC)
-
-###### (202)-724-8174
-
-###### [rwhite@dccouncil.us](mailto:rwhite@dccouncil.us)
+* [Instagram](https://www.instagram.com/robertwhite_dc)
+* [Tweet](https://twitter.com/RobertWhite_DC)
+* (202)-724-8174
+* [rwhite@dccouncil.us](mailto:rwhite@dccouncil.us)
 
 <img src="/static/img/cm-trayon-white-picture.jpg" alt="Trayon White Photo" width="100" height="100"/>
 
