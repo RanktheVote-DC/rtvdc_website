@@ -11,7 +11,7 @@ We only need support from one more of these DC Councilmembers. Ask​ these lea
 
 At-Large Councilmember
 
-<div class="grid grid-cols-4 gap-4">
+<div class="grid grid-cols-4 gap-2">
 <div>
 <img src="/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="100" height="100"/>
 </div>
