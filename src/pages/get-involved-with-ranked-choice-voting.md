@@ -16,6 +16,7 @@ At-Large Councilmember
 <img src="/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="100" height="100"/>
 </div>
 <div class="col-span-3">
+
 * [Instagram](https://www.instagram.com/robertwhite_dc)
 * [Twitter](https://twitter.com/RobertWhite_DC)
 * (202)-724-8174
