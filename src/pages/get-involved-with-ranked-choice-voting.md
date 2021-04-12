@@ -7,12 +7,12 @@ description: Take action to make ranked choice voting a reality for local electi
 
 We only need support from one more of these DC Councilmembers. Ask​ these leaders to co-sponsor the Ranked Choice Voting bill.
 
-<div class="md:grid grid-cols-3 gap-1">
+<div class="md:grid grid-cols-3 gap-3">
 <div>
 
-<img src="/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="100" height="100"/>
-
 ## [Robert White, Jr.](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
+
+<img src="/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="100" height="100"/>
 
 At-Large Councilmember
 
@@ -24,36 +24,30 @@ At-Large Councilmember
 </div>
 <div>
 
-<img src="/static/img/cm-trayon-white-picture.jpg" alt="Trayon White Photo" width="100" height="100"/>
-
 ## [Trayon White Sr: ](https://dccouncil.us/council/councilmember-trayon-white-sr/)
 
-#### Ward 8 Councilmember
+<img src="/static/img/cm-trayon-white-picture.jpg" alt="Trayon White Photo" width="100" height="100"/>
 
-###### [Instagram](https://www.instagram.com/trayonwhite)
+Ward 8 Councilmember
 
-###### [Tweet](https://twitter.com/trayonwhite)
-
-###### (202)-724-8045
-
-###### [twhite@dccouncil.us](mailto:twhite@dccouncil.us)
+* [Instagram](https://www.instagram.com/trayonwhite)
+* [Tweet](https://twitter.com/trayonwhite)
+* (202)-724-8045
+* [twhite@dccouncil.us](mailto:twhite@dccouncil.us)
 
 </div>
 <div>
 
-<img src="/static/img/cm-kenyan-mcduffie-picture.jpg" alt="Kenyon McDuffie" width="100" height="100"/>
-
 ## [Kenyon McDuffie: ](https://dccouncil.us/council/kenyan-mcduffie/)
 
-#### Ward 5 Councilmember
+<img src="/static/img/cm-kenyan-mcduffie-picture.jpg" alt="Kenyon McDuffie" width="100" height="100"/>
 
-###### [Instagram](https://www.instagram.com/cm_mcduffie/)
+Ward 5 Councilmember
 
-###### [Tweet](https://twitter.com/CM_McDuffie)
-
-###### (202)-724-8028
-
-###### [kmcduffie@dccouncil.us](mailto:kmcduffie@dccouncil.us)
+* [Instagram](https://www.instagram.com/cm_mcduffie/)
+* [Tweet](https://twitter.com/CM_McDuffie)
+* (202)-724-8028
+* [kmcduffie@dccouncil.us](mailto:kmcduffie@dccouncil.us)
 
 </div>
 </div>
