@@ -7,7 +7,7 @@ description: Take action to make ranked choice voting a reality for local electi
 
 We only need support from one more of these DC Councilmembers. Ask​ these leaders to co-sponsor the Ranked Choice Voting bill.
 
-<div class="grid grid-cols-3 gap-1">
+<div class="md:grid grid-cols-3 gap-1">
 <div>
 
 <img src="/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="100" height="100"/>
