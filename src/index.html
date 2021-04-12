@@ -29,32 +29,54 @@ path: home
   </h2>
 
 <a target="_blank" href="https://mailchi.mp/35fc9af7e341/sgn"><p class="bg-purple text-black font-bold py-2 px-4 mt-6 rounded border hover:border-purple">Join the Movement</p></a>
-
-<img class="my-4" src="/static/img/capitol-ian-hutchinson-unsplash.jpg" alt="Photo by Ian Hutchinson on Unsplash">
   
-	<div class="text-left">
+	<div class="text-left md:grid grid-cols-2 gap-10">
   		<div class="my-8">
-    		<h2 class="text-2xl">
-				<a href="/problem" class="underline">
+			<a href="/problem"><img class="my-4" src="/static/img/capitol-ian-hutchinson-unsplash.jpg" alt="Photo by Ian Hutchinson on Unsplash"></a>
+    		<h2 class="text-2xl mb-2 font-bold">
+				<a href="/problem">
       				{{problem_simple}}
 				</a>
     		</h2>
      		<p>1) Communities often split their vote & weaken their collective power.</p>
      		<p>2) Candidates can win with less than 50% of the vote.</p>
+			 <p class="mt-3"><strong><a href="/problem" class="underline">Learn more about our broken system</a>.</strong></p>
   		</div>
   
 		<div class="my-8">
-    		<h2 class="text-2xl">
-				<a href="/solution" class="underline">
+			<a href="/solution"><img class="my-4" src="/static/img/capitol-ian-hutchinson-unsplash.jpg" alt="Photo by Ian Hutchinson on Unsplash"></a>
+    		<h2 class="text-2xl mb-2 font-bold">
+				<a href="/solution">
       				{{solution_simple}}
 				</a>
     		</h2>
      		<p>1) Diverse communities are free to vote in solidarity & build power together.</p>
      		<p>2) Candidates only win once they get a real majority.</p>
+			 <p class="mt-3"><strong><a href="/solution" class="underline">Learn more about ranked voting</a>.</strong></p>
     	</div>
   	</div>
 
-  	<div>
-    	{% include "./_includes/partials/content.html" %}
-  	</div>
+	<h2 class="text-4xl mt-16 font-bold">Ranked Voting Supporters in DC</h2>
+	  	<div class="text-left my-8 md:grid grid-cols-3 gap-24">
+			  	<div class="mb-8">
+					<h3 class="mb-0 font-semibold">Christina Henderson</h3>
+					<p class="mb-2"><em>DC Councilmember, At-Large</em></p>
+					<p>"Quote here..."</p>
+				</div>
+				<div class="mb-8">
+					<h3 class="mb-0 font-semibold">Christina Henderson</h3>
+					<p class="mb-2"><em>DC Councilmember, At-Large</em></p>
+					<p>"Quote here..."</p>
+				</div>
+				<div class="mb-8">
+					<h3 class="mb-0 font-semibold">Christina Henderson</h3>
+					<p class="mb-2"><em>DC Councilmember, At-Large</em></p>
+					<p>"Quote here..."</p>
+				</div>
+		</div>
+
+		<h2 class="text-4xl mt-12 font-bold">Get Involved</h2>		
+		<div>
+			{% include "./_includes/partials/content.html" %}
+		</div>
 </div>
