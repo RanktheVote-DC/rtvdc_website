@@ -24,7 +24,7 @@ At-Large Councilmember
 </div>
 <div>
 
-## [Trayon White Sr](https://dccouncil.us/council/councilmember-trayon-white-sr/)
+## [Trayon White, Sr.](https://dccouncil.us/council/councilmember-trayon-white-sr/)
 
 <img src="/static/img/cm-trayon-white-picture.jpg" alt="Trayon White Photo" width="100" height="100"/>
 
