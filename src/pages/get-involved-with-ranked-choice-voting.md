@@ -1,26 +1,23 @@
 ---
 title: Take Action
 url: take-action
-description: This is how you can take action to make ranked choice voting a
-  reality for local elections in DC
+description: Take action to make ranked choice voting a reality for local elections in DC.
 ---
 ## We're Close to Winning!
 
-We only need support from one more of these DC Councilmembers:
+We only need support from one more of these DC Councilmembers. Ask​ these leaders to co-sponsor the Ranked Choice Voting bill.
 
-### Ask​ these leaders to co-sponsor the Ranked Choice Voting bill:
-
+## [Robert White, Jr.](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
 <div class="grid grid-cols-3 gap-4">
 <div>
 <img src="/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="100" height="100"/>
 </div>
 <div class="col-span-3">
-## \[Robert White Jr: ](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
 
 #### At-Large Councilmember
 
 * [Instagram](https://www.instagram.com/robertwhite_dc)
-* [Tweet](https://twitter.com/RobertWhite_DC)
+* [Twitter](https://twitter.com/RobertWhite_DC)
 * (202)-724-8174
 * [rwhite@dccouncil.us](mailto:rwhite@dccouncil.us)
 
