@@ -4,7 +4,7 @@ url: rcv-dc
 description: Learn how we can change DC's elections to ranked choice voting
   (RCV) from Rank the Vote DC.
 ---
-# Ranked Choice Voting in DC
+## Ranked Choice Voting in DC
 
 We've written about [the problems with our elections](/problem/) and [how ranked choice voting (RCV) fixes those problems](/solution/). 
 
