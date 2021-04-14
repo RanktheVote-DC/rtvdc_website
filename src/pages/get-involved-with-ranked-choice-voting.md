@@ -24,7 +24,7 @@ At-Large Councilmember
 </div>
 <div>
 
-### [Trayon White Sr](https://dccouncil.us/council/councilmember-trayon-white-sr/)
+### [Trayon White, Sr.](https://dccouncil.us/council/councilmember-trayon-white-sr/)
 
 <img src="/static/img/cm-trayon-white-picture.jpg" alt="Trayon White Photo" width="100" height="100"/>
 
@@ -52,12 +52,12 @@ Ward 5 Councilmember
 </div>
 </div>
 
-## Speak your truth! Call, email, or DM the Councilmembers and say why you want to rank the vote!
+## Speak your truth! 
 
-## You can say something like:
+Call, email, or DM the Councilmembers and say why you want to rank the vote! You can say something like:
 
-### "I'm a DC resident in Ward _, asking for the Councilmember's support for ranked voting to free communities to build voting power together. I hope they will support election equity by cosponsoring the VOICE Act - the new ranked choice voting bill.
+"I'm a DC resident in Ward _, asking for the Councilmember's support for ranked voting to free communities to build voting power together. I hope they will support election equity by cosponsoring the VOICE Act - the new ranked choice voting bill.
 
-### This is a common-sense way to strengthen democracy and build a Future 51st State! We're counting on you to strengthen democracy and the freedom to vote for who we want.
+This is a common-sense way to strengthen democracy and build a Future 51st State! We're counting on you to strengthen democracy and the freedom to vote for who we want.
 
-### What is the Councilmember's position on ranked voting?""
+What is the Councilmember's position on ranked voting?"
