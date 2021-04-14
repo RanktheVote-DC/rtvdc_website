@@ -10,7 +10,7 @@ We only need support from one more of these DC Councilmembers. Ask​ these lea
 <div class="md:grid grid-cols-3 gap-3">
 <div>
 
-## [Robert White, Jr.](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
+### [Robert White, Jr.](https://dccouncil.us/council/councilmember-robert-c-white-jr/)
 
 <img src="/static/img/cm-robert-white-picture.jpg" alt="Robert White Photo" width="100" height="100"/>
 
@@ -24,7 +24,7 @@ At-Large Councilmember
 </div>
 <div>
 
-## [Trayon White Sr](https://dccouncil.us/council/councilmember-trayon-white-sr/)
+### [Trayon White Sr](https://dccouncil.us/council/councilmember-trayon-white-sr/)
 
 <img src="/static/img/cm-trayon-white-picture.jpg" alt="Trayon White Photo" width="100" height="100"/>
 
@@ -38,7 +38,7 @@ Ward 8 Councilmember
 </div>
 <div>
 
-## [Kenyon McDuffie](https://dccouncil.us/council/kenyan-mcduffie/)
+### [Kenyon McDuffie](https://dccouncil.us/council/kenyan-mcduffie/)
 
 <img src="/static/img/cm-kenyan-mcduffie-picture.jpg" alt="Kenyon McDuffie" width="100" height="100"/>
 
