@@ -1,10 +1,15 @@
 ---
 title: What's wrong with elections in DC?
 url: problem
-description: Learn about what's wrong with elections in Washington, DC, from
-  Rank the Vote DC.
+description: Learn about what's wrong with elections in DC
 ---
 ## There are two problems with elections in DC
+
+Under our current system, our vote is diluted and our politicians are not held accountable. This has harmed and displaced Black and brown communities economically, culturally, and politically.
+
+Ranking preserves Black voting power and combats political displacement by letting communities vote for backup choices without harming their first choice. This tends to elect more women & people of color.
+
+As running for office becomes more accessible with Fair Elections, we need a ranked system to free communities to change the game & vote their values.
 
 ### The problem for politicians
 
