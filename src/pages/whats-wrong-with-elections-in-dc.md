@@ -3,45 +3,37 @@ title: What's wrong with elections in DC?
 url: problem
 description: Learn about what's wrong with elections in DC
 ---
-## There are two problems with elections in DC
+## Problems with elections in DC:
 
-Under our current system, our vote is diluted and our politicians are not held accountable. This has harmed and displaced Black and brown communities economically, culturally, and politically.
+1. Communities split their vote & weaken their collective community power.
+2. Candidates can win with less than 50% of the vote.
 
-Ranking preserves Black voting power and combats political displacement by letting communities vote for backup choices without harming their first choice. This tends to elect more women & people of color.
+### 1) Communities split their vote & weaken their collective power.
 
-As running for office becomes more accessible with Fair Elections, we need a ranked system to free communities to change the game & vote their values.
+Under our current system, when similar candidates run for the same race they weaken their community's power. If multiple candidates have a similar vision, they have to fight each other instead of uplifting each other and their shared values. This worsens political displacement and turns voters off.
 
-### The problem for politicians
+In general, our current elections punish voters for voting their values. We are forced to strategize and pick a candidate based on inside-baseball and guessing about "electability", rather than simply choosing the person we most believe in. A voter may believe in one candidate the most, but is worried that they don't have a chance of winning and may be wasting their vote. 
 
-The first problem with our elections is that they can be won without receiving majority support (or over 50%). This is a big problem for politicians who are trying to govern without facing challenges to their legitimacy.
+People don't trust a system that won't let them vote their values.
 
-### The problem for voters
+### 2) Candidates can win with less than 50% of the vote.
 
-The second problem is that our elections punish voters for voting their values. This is a big problem for citizens who are forced to strategize and pick a candidate based on perceived traits like electability, rather than simply choosing the person they most believe in.
+Candidates are not incentivized to build coalitions and campaign across the city because they can win while only turning out existing and more extreme voters.
 
-### 1) Elections can be won without receiving majority support (or over 50%).
+Let's say five candidates run for office, and the vote looks like this:
 
-Five candidates run for office and receive the following share of the votes:
+1. **Dr. Cherry Blossom**: 29%
+2. **Kelsye Gogo**: 21%
+3. **Ana Costia**: 20%
+4. **Adam S'Morgan**: 18%
+5. **Howard "Mumbo" Sauce**: 12%
 
-1. **Candidate One**: 29%
-2. **Candidate Two**: 21%
-3. **Candidate Three**: 20%
-4. **Candidate Four**: 18%
-5. **Candidate Five**: 12%
+In this scenario, Dr. Cherry Blossom wins with only 29% of the vote, which means 71% of voters chose someone else. Does Dr. Blossom actually represent the people? We can't know unless we know the backup choices of the other voters.
 
-In this scenario, Candidate One wins with only 29% of the vote, which means 71% of voters did not choose them. This does not give voters the sense that Candidate One has been given the mandate to lead by the people. 
-
-This creates an opening for the winning candidate's opponents to attack their legitimacy, which hurts their ability to govern as well as the legitimacy of our elections. Since voters can only vote for a single candidate, this creates a zero-sum game that rewards the candidates who run toxic smear campaigns against their opponents.
-​
-
-### 2) Voters are punished for voting their values
-
-To continue the previous example, there are five candidates running for a position. A voter may believe in Candidate Five the most but is worried that they don't have a chance of winning and may be wasting their vote.
-
-If they go ahead and vote for Candidate Five, their friends and family could shame them for not voting for a more "electable" candidate. This lose-lose scenario can lead many voting-age citizens to stop voting and drop out of civic life altogether.
+Since voters can only vote for a single candidate under our current system, elections become zero-sum ego games that reward the candidates who run toxic smear campaigns against their opponents.
 
 ## How do we fix our elections?
 
-The good news is there is a solution. It's called ranked choice voting (RCV). 
+The good news is there is a solution. It's called ranked voting, or Ranked Choice Voting (RCV). 
 
-[Learn how ranked choice voting would fix DC's elections for politicians and voters](/solution/).
+[Learn how ranked voting would fix DC's elections for politicians and voters](/solution/).
