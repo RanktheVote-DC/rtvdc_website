@@ -6,25 +6,25 @@ description: Learn about ranked choice voting and how it solves DC's elections
 ---
 Under our current system, our vote is diluted and our politicians are not held accountable. This has harmed and displaced Black and brown communities economically, culturally, and politically. Who we elect determines where resources go and who is at the table in decisions about development and displacement.
 
-As running for office becomes more accessible with Fair Elections, we need a ranked system to free communities to change the game & vote their values.
+We need a ranked system to free communities to change the game & vote their values.
 
 ## Ranked voting helps dissolve these problems
 
 ### What is ranked voting?
 
-Ranked voting gives voters the option to rank their backup choices without harming their first choice. 
+Ranked voting gives voters the option to rank backup choices (2nd, 3rd, 4th, 5th) without harming their first choice. 
 
 **If your 1st choice doesn't win, your vote automatically moves to your next choice.** 
 
-Candidates only win if they build a broad coalition of over 50%. 
+Candidates only win if they build a coalition of over 50% of the vote. 
 
 Diverse communities become free to vote in solidarity & build power together. Ranking preserves Black voting power and combats political displacement by letting communities vote for backup choices without harming their first choice. And candidates have to build a coalition that includes 1st and 2nd choices (you can't win with only 2nd choice votes).
 
 Some extra benefits:
 
-1. Elects more women and people of color
-2. Reduces toxic and negative campaigning
-3. Makes politicians have to campaign beyond their base and across the city.  
+1. Tends to [elect more women and people of color](https://www.fairvote.org/data_on_rcv#research_rcvrepresentation)
+2. Reduces[ toxic and negative campaigning](https://www.fairvote.org/data_on_rcv#research_rcvcampaigncivility)
+3. Makes city-wide politicians have to campaign beyond their base and across the city, forcing them to go East of the River and build broad coalitions.  
 
 Example DC Ranked Ballot:
 
@@ -38,7 +38,7 @@ More Details (With Some Silliness):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MykMQfmLIro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Ranked voting is also called Ranked Choice Voting (RCV), Instant Runoff Voting (IRV), and 
+Ranked voting is also called Ranked Choice Voting (RCV) and Instant Runoff Voting (IRV). Multi-winner versions are called Proportional Ranked Choice Voting (PRCV) or Single-Transferable Vote (STV).
 
 ### Practice Ranked Voting
 
