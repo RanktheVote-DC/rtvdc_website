@@ -1,7 +1,8 @@
 ---
 title: The Movement
 url: movement
-description: "Information about the Rank the Vote DC coalition building election equity in "
+description: Information about the Rank the Vote DC coalition building election
+  equity in DC.
 ---
 <img src="/static/img/organizers.jpg" alt="">
 
