@@ -17,11 +17,14 @@
     {% endif %}
   </head>
   <body>
+    <div class="flex flex-col h-screen justify-between">
     {% include "./partials/navbar.html" %}
 
     {{ content | safe }}
 
     {% include "./partials/footer.html" %}
+
+    </div>
 
     <script src="/static/js/alpine.js"></script>
 
