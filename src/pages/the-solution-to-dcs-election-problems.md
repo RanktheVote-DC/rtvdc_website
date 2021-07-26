@@ -4,27 +4,37 @@ url: solution
 description: Learn about ranked choice voting and how it solves DC's elections
   problems from Rank the Vote DC.
 ---
-Under our current system, our vote is diluted and our politicians are not held accountable. This has harmed and displaced Black and brown communities economically, culturally, and politically. Who we elect determines where resources go and who is at the table in decisions about development and displacement.
+**Problems with DC’s current election system:**
 
-We need a ranked system to free communities to change the game & vote their values.
+1) **DC voters are told to “hold their nose”** and vote for candidates perceived to be winners instead of voting for who will represent them best. Instead of campaigns focused on issues and equity, campaigns focus on who is “electable”.
 
-## Ranked voting helps dissolve these problems
+2) **Communities end up splitting their vote between similar candidates**, weakening their collective voting power. Politicians can then pit people against one another instead of doing the hard work to bring us together. 
 
-### What is ranked voting?
+3) **Candidates can win even if most voters voted for someone else** (for example, in a crowded field, the winner often ends up with less than 50% of the vote). This can result in a winner that most voters don’t support.
 
-Ranked voting gives voters the option to rank backup choices (2nd, 3rd, 4th, 5th) without harming their first choice. 
+**An equitable election solution: Ranked Voting** 
 
-**If your 1st choice doesn't win, your vote automatically moves to your next choice.** 
+1) **Washingtonians are free to vote their values** and choose a candidate who will represent their community best without needing to worry about “who will win”. This gives voters more choice, voice, and power in the process. 
 
-Candidates only win if they build a coalition of over 50% of the vote. 
+2) **Diverse communities can build community power together without vote splitting.** Politicians are incentivized to bridge our communities, campaign across the city, and build coalitions that reflect the will of the people.
 
-Diverse communities become free to vote in solidarity & build power together. Ranking preserves Black voting power and combats political displacement by letting communities vote for backup choices without harming their first choice. And candidates have to build a coalition that includes 1st and 2nd choices (you can't win with only 2nd choice votes).
+3) **Fairer and more equitable representation of our communities** because candidates have to get a majority of the vote. More voters end up supporting the winning candidate. 
+
+**How ranked voting works:**
+
+Voters are free to vote for their favorite candidate, and they also have the power to rank their backup choices (2nd, 3rd, 4th, 5th) if they’d like. 
+
+If your 1st choice is in last place, your vote automatically goes to your next choice. This continues until someone wins over 50% of the vote.
 
 Some extra benefits:
 
 1. Tends to [elect more women and people of color](https://www.fairvote.org/data_on_rcv#research_rcvrepresentation)
-2. Reduces[ toxic and negative campaigning](https://www.fairvote.org/data_on_rcv#research_rcvcampaigncivility)
-3. Makes city-wide politicians have to campaign beyond their base and across the city, forcing them to go East of the River and build broad coalitions.  
+2. It reduces strategic voting and pressure to vote for the ‘devil you know’. [](https://www.fairvote.org/data_on_rcv#research_rcvvotersupport)
+3. [Ranking is natural and easy to understand.](https://www.fairvote.org/data_on_rcv#research_rcvvotersupport)
+4. Helps dissolve [toxic or negative campaigning](https://www.fairvote.org/data_on_rcv#research_rcvcampaigncivility)
+5. Makes city-wide politicians have to campaign beyond their base and across the city, forcing them to go East of the River to build broad coalitions.  
+6. Ranking preserves Native Washingtonian voting power and combats political displacement by letting communities vote for backup choices without harming their first choice. When they implemented ranked voting [in Oakland, CA, Black representation was maintained](https://infogram.com/ranked-choice-voting-and-racial-minority-voting-rights-1hxr4zgwmpk52yo?live) despite severe gentrification and population loss.
+7. Candidates have to build a coalition that includes 1st *and* 2nd choices (you can't win with only 2nd choice votes).
 
 Example DC Ranked Ballot:
 
@@ -32,13 +42,13 @@ Example DC Ranked Ballot:
 
 Overview Video:
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Cd4C-YoRo5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+More Details on How Ranked Ballots Are Counted:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gq7N2hmX9FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-More Details (With Some Silliness):
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MykMQfmLIro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Ranked voting is also called Ranked Choice Voting (RCV) and Instant Runoff Voting (IRV). Multi-winner versions are called Proportional Ranked Choice Voting (PRCV) or Single-Transferable Vote (STV).
+Ranked voting is also called Ranked Choice Voting (RCV) or Instant Runoff Voting (IRV). The multi-winner version of ranked voting (what DC would use for our At-Large general elections) is called Proportional Ranked Choice Voting (PRCV) or Single-Transferable Vote (STV).
 
 ### Practice Ranked Voting
 
