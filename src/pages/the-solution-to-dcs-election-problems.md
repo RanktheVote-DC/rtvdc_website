@@ -14,7 +14,7 @@ description: Learn about ranked choice voting and how it solves DC's elections
 
 1. **Washingtonians are free to vote their values** and choose a candidate who will represent their community best without needing to worry about “who will win”. This gives voters more choice, voice, and power in the process. 
 2. **Diverse communities can build community power together without vote splitting.** Politicians are incentivized to bridge our communities, campaign across the city, and build coalitions that reflect the will of the people.
-3. **Fairer and more equitable representation of our communities** because candidates have to get a majority of the vote. More voters end up supporting the winning candidate. 
+3. **Fairer and more equitable representation of our communities** because candidates have to get a majority of the vote. More voters end up supporting a winner. 
 
 **How ranked voting works:**
 
@@ -29,7 +29,7 @@ Some extra benefits:
 3. [Ranking is natural and easy to understand.](https://www.fairvote.org/data_on_rcv#research_rcvvotersupport)
 4. Helps dissolve [toxic or negative campaigning](https://www.fairvote.org/data_on_rcv#research_rcvcampaigncivility)
 5. Makes city-wide politicians have to campaign beyond their base and across the city, forcing them to go East of the River to build broad coalitions.  
-6. Ranking preserves Native Washingtonian voting power and combats political displacement by letting communities vote for backup choices without harming their first choice. When they implemented ranked voting [in Oakland, CA, Black representation was maintained](https://infogram.com/ranked-choice-voting-and-racial-minority-voting-rights-1hxr4zgwmpk52yo?live) despite severe gentrification and displacement.
+6. Ranking preserves Native Washingtonian voting power and combats political displacement by letting communities vote for backup choices without harming their first choice. When they implemented ranked voting [in Oakland, CA, Black representation was maintained](https://infogram.com/ranked-choice-voting-and-racial-minority-voting-rights-1hxr4zgwmpk52yo?live) despite severe gentrification and population loss.
 7. Candidates have to build a coalition that includes 1st *and* 2nd choices (you can't win with only 2nd choice votes).
 
 Example DC Ranked Ballot:
