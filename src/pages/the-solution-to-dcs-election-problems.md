@@ -14,7 +14,7 @@ description: Learn about ranked choice voting and how it solves DC's elections
 
 1. **Washingtonians are free to vote their values** and choose a candidate who will represent their community best without needing to worry about “who will win”. This gives voters more choice, voice, and power in the process. 
 2. **Diverse communities can build community power together without vote splitting.** Politicians are incentivized to bridge our communities, campaign across the city, and build coalitions that reflect the will of the people.
-3. **Fairer and more equitable representation of our communities** because candidates have to get a majority of the vote. More voters end up supporting a winner. 
+3. **Fairer and more equitable representation of our communities** because candidates have to get a majority of the vote. More voices are heard and more people get to vote for a winner.
 
 **How ranked voting works:**
 
