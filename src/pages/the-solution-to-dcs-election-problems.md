@@ -36,17 +36,29 @@ Example DC Ranked Ballot:
 
 ![Example DC Ranked Choice Voting Ballot](/static/img/example-20ballot-20grid-20rank-20the-20v.webp "Example DC Ranked Voting Ballot")
 
-Overview Video:
+**Overview Video:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Cd4C-YoRo5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-More Details on How Ranked Ballots Are Counted:
+**More Details on How Ranked Ballots Are Counted by the Board of Elections:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gq7N2hmX9FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ranked voting is also called Ranked Choice Voting (RCV) or Instant Runoff Voting (IRV). The multi-winner version of ranked voting (what DC would use for our At-Large general elections) is called Proportional Ranked Choice Voting (PRCV) or Single-Transferable Vote (STV).
 
-### Practice Ranked Voting
+**How At-Large DC Council ranked voting works (2 seats):**
+
+For DC voters, it's exactly the same. You have the power to rank your preferences up to 5 in order to elect 2 At-Large Councilmembers in the general election.
+
+For the Board of Elections (BoE), they use proportional representation so our community is best represented by the 2 winners. The BoE makes two small changes from regular ranked voting to most fairly count the votes: 
+
+1) a “majority” changes from 50% to 33% if we're electing 2 people in the same election
+
+2) to determine the second winner, the BoE needs to account for the second choices of the people whose first choice won. The BoE gives a representative portion of the winning vote to those voters’ backup choices 
+
+Otherwise, it’s exactly the same as single-winner ranked voting.
+
+### Practicing Ranked Voting
 
 To better understand how it works, try it! Selecting your choices for the new mascot for the Washington Football Team.*
 
