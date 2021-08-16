@@ -102,7 +102,7 @@ We are supported by a broad coalition including the following groups:
   </div>
 </div>
 
-## Committee members
+## Steering committee members
 - Individuals: Markus Batchelor
 - DC for Democracy: Kesh Ladduwahetty, Jeremiah Lowery, Keith Ivey
 - Working Families Party: Makia Green
