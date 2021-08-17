@@ -79,11 +79,6 @@ We are supported by a broad coalition including the following groups:
         </a>
       </div>
       <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
-        <a href="" target="_blank">
-          <img class="h-20" src="/static/img/working-families-party.png" alt="Working Families Party" title="Working Families Party">
-        </a>
-      </div>
-      <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
         <a href="https://campaignlegal.org/" target="_blank">
           <img class="h-20" src="/static/img/clc.png" alt="Campaign Legal Center" title="Campaign Legal Center">
         </a>
