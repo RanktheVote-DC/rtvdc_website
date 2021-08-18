@@ -4,19 +4,19 @@ url: solution
 description: Learn about ranked choice voting and how it solves DC's elections
   problems from Rank the Vote DC.
 ---
-**Problems with DC’s current election system:**
+## Problems with DC’s current election system:
 
 1. **DC voters are told to “hold their nose”** and vote for candidates perceived to be winners instead of voting for who will represent them best. Instead of campaigns focused on issues and equity, campaigns focus on who is “electable”.
 2. **Communities end up splitting their vote between similar candidates**, weakening their collective voting power. Politicians can then pit people against one another instead of doing the hard work to bring us together. 
 3. **Candidates can win even if most voters voted for someone else** (for example, in a crowded field, the winner often ends up with less than 50% of the vote). This can result in a winner that most voters don’t support.
 
-**An equitable election solution: Ranked Voting** 
+## An equitable election solution: Ranked Voting
 
 1. **Washingtonians are free to vote their values** and choose a candidate who will represent their community best without needing to worry about “who will win”. This gives voters more choice, voice, and power in the process. 
 2. **Diverse communities can build community power together without vote splitting.** Politicians are incentivized to bridge our communities, campaign across the city, and build coalitions that reflect the will of the people.
 3. **Fairer and more equitable representation of our communities** because candidates have to get a majority of the vote. More voices are heard and more people get to vote for a winner.
 
-**How ranked voting works:**
+## How ranked voting works:
 
 Voters are free to vote for their favorite candidate, and they also have the power to rank their backup choices (2nd, 3rd, 4th, 5th) if they’d like. 
 
@@ -36,17 +36,17 @@ Example DC Ranked Ballot:
 
 ![Example DC Ranked Choice Voting Ballot](/static/img/example-20ballot-20grid-20rank-20the-20v.webp "Example DC Ranked Voting Ballot")
 
-**Overview Video:**
+## Overview Video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Cd4C-YoRo5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**More Details on How Ranked Ballots Are Counted by the Board of Elections:**
+### More Details on How Ranked Ballots Are Counted by the Board of Elections:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gq7N2hmX9FI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ranked voting is also called Ranked Choice Voting (RCV) or Instant Runoff Voting (IRV). The multi-winner version of ranked voting (what DC would use for our At-Large general elections) is called Proportional Ranked Choice Voting (PRCV) or Single-Transferable Vote (STV).
 
-**How At-Large DC Council ranked voting works (2 seats):**
+## How At-Large DC Council ranked voting works (2 seats):
 
 For DC voters, it's exactly the same. You have the power to rank your preferences up to 5 in order to elect 2 At-Large Councilmembers in the general election.
 
@@ -58,7 +58,7 @@ For the Board of Elections (BoE), they use proportional representation so our co
 
 Otherwise, it’s exactly the same as single-winner ranked voting.
 
-### Practicing Ranked Voting
+## Practicing Ranked Voting
 
 To better understand how it works, try it! Selecting your choices for the new mascot for the Washington Football Team.*
 
