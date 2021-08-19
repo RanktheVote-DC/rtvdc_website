@@ -23,7 +23,7 @@ On the free Netlify plan, only 5 people can have access to the CMS. New editors 
 ### 1\. Clone this Repository
 
 ```
-git clone https://USERNAME@github.com/RanktheVote-DC/rtvdc_website.git
+git clone https://github.com/RanktheVote-DC/rtvdc_website.git
 ```
 
 ### 2\. Navigate to the directory
