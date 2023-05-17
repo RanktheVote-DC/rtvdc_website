@@ -38,7 +38,7 @@ Example DC Ranked Ballot:
 
 ## Overview Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Cd4C-YoRo5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cd4C-YoRo5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### More Details on How Ranked Ballots Are Counted by the Board of Elections:
 
