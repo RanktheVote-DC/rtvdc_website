@@ -57,15 +57,3 @@ For the Board of Elections (BoE), they use proportional representation so our co
 2) to determine the second winner, the BoE needs to account for the second choices of the people whose first choice won. The BoE gives a representative portion of the winning vote to those voters’ backup choices 
 
 Otherwise, it’s exactly the same as single-winner ranked voting.
-
-## Practicing Ranked Voting
-
-To better understand how it works, try it! Selecting your choices for the new mascot for the Washington Football Team.*
-
-* Vote for as many mascots as you want.
-* Your first choice is your favorite, your 2nd choice is solid, and any other choices are ones you "could live with".
-* If your first choice doesn't win, your vote goes to your second choice. If your second choice doesn't win, you'll vote goes to your third choice. And so on...
-
-<div style="position:relative;overflow:hidden;padding-top:120%;"><iframe src="https://rankit.vote/vote/WVk91aOuGv8M3TTScuTY" style="border:1px solid #f1f1f1;position: absolute;top: 0;left: 0;width: 100%;height: 100%;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" allowfullscreen></iframe></div>
-
-*\* Rank the Vote DC is not affiliated with the NFL or the Washington Football Team and this vote is not officially endorsed by the team. Consider this a vote to find out which is the preferred mascot of the people of DC.*
