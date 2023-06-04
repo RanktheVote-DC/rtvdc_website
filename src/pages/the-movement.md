@@ -106,6 +106,3 @@ We are supported by a broad coalition including the following groups:
 - Sunrise DC: Kush Kharod, Natalia Mushegian
 - Persist DC: Maddie Leonard
 - Coalition Internal Organizer: Sam Bonar
-
-Our Steering Committee meets on the first Thursdays of each month at 6pm.
-If any organizational member of the coalition would like to send a representative to the steering committee, please let us know at [rankthevotedc@gmail.com](mailto:rankthevotedc@gmail.com).
