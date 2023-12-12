@@ -1,18 +1,5 @@
 links:
-  - title: The Movement
-    url: /movement/
-    desc: A coalition of 14 DC organizations, volunteer organizers, and hundreds of
-      DC residents
-    cta: Learn about the movement
-  - title: Take Action
-    url: /take-action/
-    desc: Join us to free communities to build voting power together.
-    cta: Learn how you can get involved
-  - title: Upcoming Events
-    url: /events-calendar/
-    desc: Meet the team behind Rank the Vote DC.
-    cta: Attend an upcoming event
-  - title: Donate
-    url: https://opencollective.com/rankthevotedc
-    desc: Your contributions make our work possible.
-    cta: Donate today
+  - title: "Ballot Iniative #83"
+    url: https://makeallvotescountdc.org/
+    desc: Upgrade DC elections with ranked choice voting and semi-open primaries.
+    cta: Learn more
