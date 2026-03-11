@@ -1,16 +1,16 @@
 ---
 title: Take Action
 url: take-action
-description: Take action to make ranked choice voting a reality for local elections in DC.
+description: Help educate Washingtonians on Ranked Choice Voting before the June 2026 primary election.
 ---
-## Ballot Initiative 83
+## Help spread the word about Ranked Choice Voting in DC
 
-Working with our neighbors, we've starting the process of letting DC residents vote on whether to make all votes count in DC. This initiative, if we get on the ballot and neighbors vote to approve it, would implement ranked choice voting and end voter disenfranchisement for almost 75,000 independent voters (nearly 1 out of 6 voters) in DC.
+Now that Ranked Choice Voting is coming to DC, we need to educate voters on the change ahead of the June 2026 primary. That's why we've started the Rank the District initiative.
 
-To learn more, visit the website at [MakeAllVotesCountDC.org](https://makeallvotescountdc.org/).
+To learn more, visit the website at [rankthedistrict.org](https://rankthedistrict.org/).
 
 ### Related links 
 
-* [Text of Ballot Initiative 83](https://makeallvotescountdc.org/ballot-initiative/)
-* [Sign up to volunteer](https://makeallvotescountdc.org/volunteer/)
-* [Donate to the ballot initiative](https://makeallvotescountdc.org/donate/)
+* [How to rank your ballot](https://rankthedistrict.org/how-to-rank-your-ballot)
+* [Sign up to volunteer](https://www.growdemocracydc.org/rank-district-volunteer)
+* [Donate to the civic education fund](https://secure.qgiv.com/for/growdemocracydcciviceducationfund)
